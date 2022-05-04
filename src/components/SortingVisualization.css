@@ -1,0 +1,36 @@
+
+.array-bar {
+    width: 6px;
+    display: inline-block;
+    margin: 0 1px;
+    text-align: center;
+    transition: left 0.2s;
+    
+    
+}
+
+.array-container {
+    /* position: absolute; */
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    /* left: 100px; */
+    position: relative;
+  
+}
+
+.toolbar-container {
+    display: flex;
+    margin-bottom: 50px;
+    margin-top:50px;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.animation-container {
+    display: flex;
+    margin-bottom: 50px;
+    margin-top:50px;
+    justify-content: center;
+    align-items: flex-end;
+}
