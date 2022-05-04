@@ -1,7 +1,7 @@
 {
   "name": "sortingvisu",
   "version": "0.1.0",
-  "homepage": "https://cmandapat.github.io/react-gh-pages",
+  "homepage": "https://cmandapat.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
